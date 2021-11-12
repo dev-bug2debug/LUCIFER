@@ -79,7 +79,7 @@ module.exports = {
           sPromote: '',
           sDemote: '',
           delete: true,
-          antiLink: false,
+          antiLink: true,
           viewonce: false,
         }
       } catch (e) {
