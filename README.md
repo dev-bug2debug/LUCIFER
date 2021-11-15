@@ -1,4 +1,4 @@
-# tokio
+# LUCIFER
 
 English version of wabot-aq
 
@@ -158,9 +158,9 @@ conn.logger.level = 'debug'
 
 -------
 
-[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ajay](https://github.com/itsajaygaur.png?size=100)](https://github.com/itsajaygaur/tokio-wabot) 
+[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ajay](https://github.com/itsajaygaur.png?size=100)](https://github.com/dev-bug2debug/LUCIFER) 
 ----|----
-[Nurutomo](https://github.com/Nurutomo) | [Ajay](https://github.com/itsajaygaur/tokio-wabot) 
+[Nurutomo](https://github.com/Nurutomo) | [Ajay](https://github.com/dev-bug2debug/LUCIFER) 
 Author / Creator | Editor
  
 
@@ -168,7 +168,7 @@ Author / Creator | Editor
 
 Don't forget to give it a star 🌟
 
-Best regards: tokio
+Best regards: LUCIFER
 
 
 
