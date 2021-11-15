@@ -42,7 +42,9 @@ const defaultMenu = {
 〽️ Prefix: *%p*
 ⏰ Uptime: *%uptime (%muptime)*
 🎪 Database: *%rtotalreg of %totalreg*
-🏮 Github: github.com/itsajaygaur/tokio-wabot
+🏮 Github: github.com/dev-bug2debug/LUCIFER
+📞 Owner : Stolenboydevil
+📞 Chat : https://wa.me/918950004837
 
 👇🏻 All usable commands are listed below 
 
